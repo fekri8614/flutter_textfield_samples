@@ -5,7 +5,8 @@ Designing and learning to improve applications by Flutter (framework).
 ## Getting Started
 
 This project is a starting point for a Flutter application. 
-The files and applications support all (android, ios, linux, flutter, macos, windows & web) `OS`s (Operation System (s)).
+The files and applications support all (android, ios, linux, flutter, macos, windows & web) 
+`OS` (Operation System)s.
 
 A few resources to get you started if this is your first Flutter project:
 

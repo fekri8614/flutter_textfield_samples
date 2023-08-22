@@ -1,16 +1,16 @@
 # flutter_samples
 
-A new Flutter project.
+Designing and learning to improve applications by Flutter (framework).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. 
+The files and applications support all (android, ios, linux, flutter, macos, windows & web).
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Project codelab](https://docs.flutter.dev/cookbook/effects/parallax-scrolling)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+*Mohammad Reza Fekri, 8.22.23*

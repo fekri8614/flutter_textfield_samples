@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'classes/retrieve_text_input.dart';
+import 'design/order_food.dart';
 
 void main() {
   runApp(const MyApp());
@@ -10,16 +11,11 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const appTitle = 'Form Validation Demo';
-
-    return MaterialApp(
-      title: appTitle,
+    return const MaterialApp(
       home: Scaffold(
-        appBar: AppBar(
-          title: const Text(appTitle),
-        ),
-        body: const RetrieveTextInput(),
+        body: ExampleDragAndDrop(),
       ),
+      debugShowCheckedModeBanner: false,
     );
   }
 }

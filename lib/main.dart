@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_samples/classes/animations/basics/basics.dart';
+import 'classes/animations/misc/expand_card.dart';
 
 void main() {
   runApp(const MyApp());
@@ -10,11 +10,13 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
       home: Scaffold(
-        body: TweenDemo(), // replace it
+        body: ExpandCardDemo(), // replace it
       ),
       debugShowCheckedModeBanner: false,
     );
   }
 }
+
+// https://github.com/flutter/samples/tree/main/animations/lib/src/misc
